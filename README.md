@@ -26,10 +26,10 @@ For Software:
 - javascript
 - python
 
-# Installation
-[commands]
+  #Tools USED
+  -Visual Studio Code
 
-@@ -48,10 +45,10 @@ For Software:
+
 
 # Screenshots (Add at least 3)
 ![quiz_image](https://github.com/user-attachments/assets/f4d15502-0581-4508-8073-c7cc292db59f)
